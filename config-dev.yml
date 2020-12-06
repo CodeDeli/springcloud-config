@@ -1,3 +1,5 @@
 config:
  info: this is my first springcloud config！
+server:
+ port: 3355
 
